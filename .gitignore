@@ -2,7 +2,7 @@
 target/
 *.class
 .vscode
-.github
+.github\workflows
 
 # Log file
 *.log
